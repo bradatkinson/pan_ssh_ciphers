@@ -25,3 +25,7 @@ python pan_ssh_ciphers.py
 ## Changelog
 
 See the [CHANGELOG](CHANGELOG) file for details
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
